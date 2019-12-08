@@ -85,6 +85,7 @@ mozillians
 mozspace
 nightly
 normandy
+notes
 notify
 observatory
 paris
@@ -119,6 +120,7 @@ settings
 sf
 sfo
 sanfrancisco
+screenshots
 shavar
 shield
 shipit
@@ -131,6 +133,7 @@ sync
 taipei
 taskcluster
 taskcluster.net
+thunderbird
 tls-observatory
 tools
 toronto
