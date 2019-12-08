@@ -348,6 +348,8 @@ docker
 docs
 document
 documentation
+domain
+domains
 door
 double
 down
@@ -403,6 +405,11 @@ fluent
 fluentd
 fn
 foo
+forw
+frwd
+forward
+forwarded
+forwarding
 force
 forced
 forces
@@ -413,6 +420,8 @@ forward
 forwarded
 forwarding
 forwards
+frame
+frames
 framework
 ftp
 fuck
@@ -444,6 +453,8 @@ grids
 grok
 grow
 gui
+guid
+guids
 gz
 h
 hack
@@ -476,6 +487,8 @@ hub
 hubs
 human
 humanresources
+iframe
+iframes
 image
 images
 img
@@ -483,6 +496,8 @@ important
 in
 index
 indexes
+indirect
+indirected
 info
 inform
 information
@@ -797,6 +812,10 @@ README.md
 readme.txt
 README.txt
 reads
+redirect
+redirected
+redirects
+redirecting
 redis
 ref
 references
@@ -981,6 +1000,8 @@ uac
 uat
 ubuntu
 ui
+uid
+uids
 uis
 uncompressed
 unsign
