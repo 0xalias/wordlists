@@ -874,6 +874,13 @@ security
 securitygroup
 sell
 sells
+sense
+senses
+sensing
+sensitive
+sensor
+sensoring
+sensors
 sep
 sept
 september
