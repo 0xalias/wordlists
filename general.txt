@@ -937,6 +937,7 @@ trojan
 truncate
 twitter
 txt
+uac
 uat
 ubuntu
 ui
