@@ -307,11 +307,13 @@ dependencies
 dependency
 depends
 dev
+dev-preview
 develop
 developers
 development
 develops
 devops
+devpreview
 devs
 dic
 dict
@@ -700,6 +702,8 @@ playframework
 png
 postgres
 postgresql
+preview
+previews
 priv
 private
 privatebeta
