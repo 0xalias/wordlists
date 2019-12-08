@@ -71,6 +71,13 @@ addresses
 admin
 administration
 administrator
+ad
+ads
+advert
+adverts
+advertise
+advertised
+advertising
 ajax
 akamai
 algo
@@ -796,6 +803,8 @@ resource
 resources
 response
 responses
+rest
+restapi
 result
 results
 retire
@@ -897,6 +906,9 @@ svn
 swagger
 swaggers
 swift
+switch
+switched
+switches
 sync
 system
 systems
