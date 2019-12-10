@@ -291,6 +291,9 @@ cracked
 cracking
 cracks
 crash
+cron
+crond
+cronjob
 cyber
 dashboard
 dashboards
@@ -721,6 +724,10 @@ origin
 out
 output
 outputs
+owner
+owned
+owners
+owning
 package
 packages
 packaging
