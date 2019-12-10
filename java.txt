@@ -1,0 +1,12 @@
+derby
+java
+jdbc
+jetbrains
+jvm
+kafka
+oracle
+rabbitmq
+spring
+springboot
+springframework
+zookeeper
