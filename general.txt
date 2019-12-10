@@ -111,6 +111,9 @@ archive
 archives
 archs
 around
+arr
+array
+arrays
 artifact
 artifacts
 ascii
@@ -468,6 +471,9 @@ hackers
 hacks
 hash
 hashes
+head
+header
+heads
 heat
 heatmap
 heroku
@@ -837,6 +843,9 @@ registration
 registrations
 registries
 registry
+repo
+repos
+repository
 report
 reports
 req
@@ -1014,8 +1023,12 @@ triggered
 triggering
 triggers
 triple
+tripled
+triples
 trojan
 truncate
+tuple
+tuples
 twitter
 txt
 uac
@@ -1039,6 +1052,7 @@ us-east-1
 us-en
 US-EN
 user
+userid
 users
 us-west-1
 us-west-2
