@@ -218,6 +218,12 @@ chains
 char
 character
 characteristic
+check
+checked
+checking
+checkout
+checkouts
+checks
 ci
 ci-cd
 cicd
@@ -735,6 +741,8 @@ page
 pages
 paper
 papers
+parameter
+parameters
 part
 partial
 partials
