@@ -231,6 +231,9 @@ cloud
 cloud-mirror
 cloudwatch
 cluster
+clustered
+clusters
+clustering
 cmd
 code
 codeigniter
