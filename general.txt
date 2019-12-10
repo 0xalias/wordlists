@@ -478,6 +478,7 @@ h
 hack
 hackers
 hacks
+haml
 hash
 hashes
 head
@@ -502,6 +503,7 @@ host
 hosting
 hosts
 hr
+html
 http
 https
 hub
@@ -562,6 +564,7 @@ jquery
 jre
 js
 json
+jsonp
 jsp
 jun
 k8s
@@ -640,6 +643,7 @@ member
 members
 memcache
 memory
+mercurial
 merger
 message
 messages
@@ -802,6 +806,11 @@ prometheus
 properties
 property
 prov
+provide
+provided
+provider
+provides
+providing
 provision
 provisioner
 provisioners
@@ -816,6 +825,11 @@ purchased
 purchases
 purge
 push
+push_id
+pushed
+pushes
+pushing
+pushlog
 put
 pwd
 py
@@ -898,6 +912,7 @@ schema
 schemas
 science
 sciences
+scm
 script
 scripts
 search
@@ -943,6 +958,9 @@ signed
 signing
 signs
 single
+slack
+slacked
+slacks
 slow
 slower
 snapchat
@@ -951,7 +969,9 @@ sockets
 software
 sold
 source
+sourced
 sources
+sourcing
 spread
 spring
 springboot
@@ -1023,6 +1043,7 @@ titles
 tmp
 token
 tokens
+toml
 tool
 toolkit
 toolkits
@@ -1033,6 +1054,9 @@ track
 tracked
 tracking
 tracks
+trail
+trails
+trailing
 train
 training
 .travis.yml
