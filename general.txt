@@ -397,6 +397,9 @@ feb
 file
 files
 fire
+fired
+firing
+fires
 firefox
 firewall
 firewalls
@@ -498,7 +501,9 @@ img
 important
 in
 index
+indexed
 indexes
+indexing
 indirect
 indirected
 info
@@ -1001,6 +1006,7 @@ train
 training
 .travis.yml
 trigger
+triggered
 triggering
 triggers
 triple
