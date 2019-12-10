@@ -964,6 +964,10 @@ switches
 sync
 system
 systems
+tag
+tags
+tagged
+tagging
 takeover
 takeovers
 tar
