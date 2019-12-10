@@ -54,6 +54,7 @@ firefox.com
 foundation
 fpn
 fxa
+gecko
 getfirefox
 getfirefox.com
 getpocket
@@ -87,10 +88,12 @@ nightly
 normandy
 notes
 notify
+oak
 observatory
 paris
 password
 passwords
+phabricator
 phonebook
 pocket
 pontoon
