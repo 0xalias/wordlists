@@ -568,6 +568,7 @@ jsonp
 jsp
 jun
 k8s
+katalon
 key
 keychain
 keychains
@@ -923,6 +924,7 @@ secrets
 securities
 security
 securitygroup
+selenium
 sell
 sells
 sense
